@@ -44,4 +44,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Translation Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
