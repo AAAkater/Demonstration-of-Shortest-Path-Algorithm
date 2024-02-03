@@ -12,4 +12,4 @@
 
 请选对Qt版本
 
-![Qt版本](.\imgsrc\版本.png)
+![Qt版本](./imgsrc/版本.png)
